@@ -1,5 +1,3 @@
 # 👋 Hello!
-I am DDWMV. I'm a frontend developer.
-- I program GLSL Demos and C++ hobby projects
-- I am currently making a UI Framework
-- Graphics are my favorite thing. That's why I code in GLSL.
+I am DDWMV, a solo developer that codes in **Graphics** and **Web Development**.
+Please check out the repositories below to explore my projects.
