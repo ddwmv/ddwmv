@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
 
-I am **DDWMV**, a solo developer that codes in the fields of **Graphics** and **Web Development**. I'm interested in *random things* and try it out just to learn it more, that's all.
+I am **DDWMV**, a solo developer that codes in the fields of **Graphics** and **Web Development**. I'm interested in *random things* and try it out just to learn it more, fixing random old projects so it becomes usable.
 
-Check out the repositories below to explore my projects.
+👇 Check out the repositories below to explore my projects.
  
